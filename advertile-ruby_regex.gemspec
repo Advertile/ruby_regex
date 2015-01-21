@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = "ruby_regex"
+  s.name = "advertile-ruby_regex"
   s.version = "0.1.2"
   s.author = "Emili Parreno"
   s.email = "emili@eparreno.com"
